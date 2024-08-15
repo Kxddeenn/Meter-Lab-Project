@@ -1,0 +1,7 @@
+# Core Libraries 
+pandas == 2.2.2
+customtkinter == 5.2.2
+pillow == 10.4.0
+openpyxl == 3.1.4
+pywin32 == 306
+matplotlib == 3.9.0
