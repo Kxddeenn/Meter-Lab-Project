@@ -77,6 +77,46 @@ $ git pull
 
 ### Weekly Jig Screen 
 
+![Weekly Jig](https://github.com/Kxddeenn/Meter-Lab-Project/blob/main/UI/images/testjig.png)
 
+- **Required Data Entry**: 
+  - **Room Temp in C**: Input field to record the current room temperature in Celsius.
+  - **Bench**: Dropdown to select the bench used for testing.
+  - **Test Jig**: Dropdown for selecting the specific test jig.
+  - **Voltage**: Input or dropdown to specify the voltage used during testing.
+  - **Meter Points**: Field to input the number of meter points being tested.
+
+- **Submit Files**:
+  - **Data File (.xlsx)**: Button to upload the data file in .xlsx format, containing the test results.
+  - **Generate Certificate**: Button that processes the input data and generates the certificate.
+  - **Open Empty Certificate & Errors**: Option to open a blank certificate template and view any errors. This also allows you to update the certificate or change any errors.
+
+
+### Settings Screen
+
+![Setting Screen](https://github.com/Kxddeenn/Meter-Lab-Project/blob/main/UI/images/settings.png)
+
+- **Test Jig**:
+  - **Last Comparison Test**: Input field where users can log the date of the last comparison test performed.
+  - **Bench**: Dropdown menu to select the bench that is currently being used for testing. The selected bench is shown as "WECO4150" in this example.
+  - **Save Button**: After making any changes, users can click the "Save" button to store the new settings.
+
+- **Update Files**:
+  - **Certificate Template**: Button to open and modify the template used for generating certificates. This ensures that the certificates match to the latest standards and formats.
+  - **Meter Errors File**: Button to open and update the file that has all meter errors used in equations within the certification generation. 
+
+- **Support**:
+  - **Feedback Forum**: Button to open a link where users can provide feedback on the application.
+  - **Documentation**: Button to open a link to a .loop page where users can see all processes, installation guides or error troubleshooting. 
+
+
+### Completed Screen
+
+![Completed Screen](https://github.com/Kxddeenn/Meter-Lab-Project/blob/main/UI/images/completed.png)
+
+- **Meter Seals Completed**:
+  - **Table**: A table to represent the amount of meter seals per month.
+  - **Refresh Button**: This will refresh the table above, showing the total amount of meter seals within the lab.
+  - **Open Sealing Log Button**: Button used to open the sealing log which stores all the certificates numbers and data for each creation.
 
 
