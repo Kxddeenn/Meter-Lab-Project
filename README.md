@@ -120,3 +120,17 @@ $ git pull
   - **Open Sealing Log Button**: Button used to open the sealing log which stores all the certificates numbers and data for each creation.
 
 
+### Progess Report
+
+- **9/5/2024**
+
+So far, an update on how impactful the application was to the company. 
+
+![Graph](https://github.com/Kxddeenn/Meter-Lab-Project/blob/main/UI/images/graphimage.png)
+
+Throughout the year, the app was in development from June, July and was launched in August. 
+This graph shows you the significant impact of how automating processes can be. 
+Using an application like this, can increase production exponentially. 
+
+
+
